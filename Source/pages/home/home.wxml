@@ -1,0 +1,4 @@
+<button open-type='getUserInfo' bindgetuserinfo='getUserInfo'>获取用户信息</button>
+
+用户吗：{{MemberInfo.nickName}}
+用户头像：{{MemberInfo.avatarUrl}}
